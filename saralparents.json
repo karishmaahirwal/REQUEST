@@ -1,0 +1,479 @@
+{
+    "data": [
+        {
+            "id": "1595",
+            "parent_exercise_id": null,
+            "name": "Introduction Problem Solving",
+            "slug": "problemsolving101__Introduction",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1596",
+            "parent_exercise_id": "1596",
+            "name": "Getting Started",
+            "slug": "problemsolving101__Warmup/Introduction",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Warmup/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1603",
+                    "parent_exercise_id": "1596",
+                    "name": "Warmup Question 1",
+                    "slug": "problemsolving101__Warmup/WarmupQuestion1",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Warmup/WarmupQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1604",
+                    "parent_exercise_id": "1596",
+                    "name": "Warmup Question 2",
+                    "slug": "problemsolving101__Warmup/WarmupQuestion2",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Warmup/WarmupQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1605",
+                    "parent_exercise_id": "1596",
+                    "name": "Warmup Question 3",
+                    "slug": "problemsolving101__Warmup/WarmupQuestion3",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Warmup/WarmupQuestion3.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1635",
+            "parent_exercise_id": "1635",
+            "name": "Arrays",
+            "slug": "problemsolving101__Arrays/Introduction",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Arrays/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1597",
+                    "parent_exercise_id": "1635",
+                    "name": "Arrays Question 1",
+                    "slug": "problemsolving101__Arrays/ArraysEasyQuestion1",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Arrays/ArraysEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1609",
+                    "parent_exercise_id": "1635",
+                    "name": "Arrays Question 2",
+                    "slug": "problemsolving101__Arrays/ArraysEasyQuestion2",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Arrays/ArraysEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1610",
+                    "parent_exercise_id": "1635",
+                    "name": "Arrays Bonus Question",
+                    "slug": "problemsolving101__Arrays/ArraysBonus",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Arrays/ArraysBonus.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1639",
+            "parent_exercise_id": "1639",
+            "name": "Dictionaries",
+            "slug": "problemsolving101__Dictionaries/Introduction",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Dictionaries/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1601",
+                    "parent_exercise_id": "1639",
+                    "name": "Dictionaries Question 1",
+                    "slug": "problemsolving101__Dictionaries/DictionariesEasyQuestion1",
+                    "sequence_num": 4001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Dictionaries/DictionariesEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1629",
+                    "parent_exercise_id": "1639",
+                    "name": "Dictionaries Question 2",
+                    "slug": "problemsolving101__Dictionaries/DictionariesEasyQuestion2",
+                    "sequence_num": 4002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Dictionaries/DictionariesEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1630",
+                    "parent_exercise_id": "1639",
+                    "name": "Dictionaries Bonus Question",
+                    "slug": "problemsolving101__Dictionaries/DictionariesBonus",
+                    "sequence_num": 4003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Dictionaries/DictionariesBonus.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1636",
+            "parent_exercise_id": "1636",
+            "name": "Implementation",
+            "slug": "problemsolving101__Implementation/Introduction",
+            "sequence_num": 5000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1598",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 1",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion1",
+                    "sequence_num": 5001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1606",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 2",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion2",
+                    "sequence_num": 5002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1607",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 3",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion3",
+                    "sequence_num": 5003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1608",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 4",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion4",
+                    "sequence_num": 5004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1617",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 6",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion6",
+                    "sequence_num": 5005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion6.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1618",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Easy Question 7",
+                    "slug": "problemsolving101__Implementation/ImplementationEasyQuestion7",
+                    "sequence_num": 5006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationEasyQuestion7.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1611",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Medium Question 1",
+                    "slug": "problemsolving101__Implementation/ImplementationMediumQuestion1",
+                    "sequence_num": 5007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationMediumQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1612",
+                    "parent_exercise_id": "1636",
+                    "name": "Implementation Medium Question 2",
+                    "slug": "problemsolving101__Implementation/ImplementationMediumQuestion2",
+                    "sequence_num": 5008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Implementation/ImplementationMediumQuestion2.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1637",
+            "parent_exercise_id": "1637",
+            "name": "Strings",
+            "slug": "problemsolving101__Strings/Introduction",
+            "sequence_num": 6000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1599",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 1",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion1",
+                    "sequence_num": 6001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1613",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 2",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion2",
+                    "sequence_num": 6002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1614",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 3",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion3",
+                    "sequence_num": 6003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1615",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 4",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion4",
+                    "sequence_num": 6004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1616",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 5",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion5",
+                    "sequence_num": 6005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion5.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1623",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 6",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion6",
+                    "sequence_num": 6006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion6.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1619",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Easy Question 7",
+                    "slug": "problemsolving101__Strings/StringsEasyQuestion7",
+                    "sequence_num": 6007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringsEasyQuestion7.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1620",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Medium Question 1",
+                    "slug": "problemsolving101__Strings/StringMediumQuestion1",
+                    "sequence_num": 6008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringMediumQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1621",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Medium Question 2",
+                    "slug": "problemsolving101__Strings/StringMediumQuestion2",
+                    "sequence_num": 6009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringMediumQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1622",
+                    "parent_exercise_id": "1637",
+                    "name": "Strings Medium Question 3",
+                    "slug": "problemsolving101__Strings/StringMediumQuestion3",
+                    "sequence_num": 6010,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Strings/StringMediumQuestion3.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1638",
+            "parent_exercise_id": "1638",
+            "name": "More Arrays",
+            "slug": "problemsolving101__MoreArrays/Introduction",
+            "sequence_num": 7000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1600",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Easy Question 1",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysEasyQuestion1",
+                    "sequence_num": 7001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1628",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Easy Question 2",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysEasyQuestion2",
+                    "sequence_num": 7002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1624",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Easy Question 3",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysEasyQuestion3",
+                    "sequence_num": 7003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysEasyQuestion3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1625",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Easy Question 4",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysEasyQuestion4",
+                    "sequence_num": 7004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysEasyQuestion4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1626",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Easy Question 5",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysEasyQuestion5",
+                    "sequence_num": 7005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysEasyQuestion5.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1627",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Medium Question 1",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysMediumQuestion1",
+                    "sequence_num": 7006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysMediumQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1634",
+                    "parent_exercise_id": "1638",
+                    "name": "More Arrays Medium Question 2",
+                    "slug": "problemsolving101__MoreArrays/MoreArraysMediumQuestion2",
+                    "sequence_num": 7007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/MoreArrays/MoreArraysMediumQuestion2.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1640",
+            "parent_exercise_id": "1640",
+            "name": "Search",
+            "slug": "problemsolving101__Search/Introduction",
+            "sequence_num": 8000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Search/Introduction.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1602",
+                    "parent_exercise_id": "1640",
+                    "name": "Search Easy Question 1",
+                    "slug": "problemsolving101__Search/SearchEasyQuestion1",
+                    "sequence_num": 8001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Search/SearchEasyQuestion1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1631",
+                    "parent_exercise_id": "1640",
+                    "name": "Search Easy Question 2",
+                    "slug": "problemsolving101__Search/SearchEasyQuestion2",
+                    "sequence_num": 8002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Search/SearchEasyQuestion2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1632",
+                    "parent_exercise_id": "1640",
+                    "name": "Search Easy Question 3",
+                    "slug": "problemsolving101__Search/SearchEasyQuestion3",
+                    "sequence_num": 8003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Search/SearchEasyQuestion3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1633",
+                    "parent_exercise_id": "1640",
+                    "name": "Search Easy Question 4",
+                    "slug": "problemsolving101__Search/SearchEasyQuestion4",
+                    "sequence_num": 8004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/problemsolving101/Search/SearchEasyQuestion4.md",
+                    "submission_type": null
+                }
+            ]
+        }
+    ]
+}
